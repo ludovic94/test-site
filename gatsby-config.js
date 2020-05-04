@@ -23,7 +23,7 @@ person:{ name:"ludovic", age: 40},
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images/`,
+        path: `${__dirname}/src/Images/`,
       },
     },
     {
